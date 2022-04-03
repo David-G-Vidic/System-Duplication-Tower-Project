@@ -1,7 +1,7 @@
 # System-Duplication-Tower-Project
 Team Project Built for Computer Architecture class
 
-View PDF for instructions we were given for this project.
+View PDF for instructions above that we were given for this project.
 
 
 The towers were be donated to [The Knowledge Box](theknowledgebox.info). The towers are being used as duplication stations for the
