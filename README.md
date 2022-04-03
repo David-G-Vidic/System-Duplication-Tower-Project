@@ -11,9 +11,9 @@ Tower Build Video we made:
 
 [![Tower_Build_Video:](https://img.youtube.com/vi/TSE_Lp63H7c/0.jpg)](https://www.youtube.com/watch?v=TSE_Lp63H7c)
 
-Technologies used in project: Raspberry Pi, Vi, Knowledge Box software, DOS Commands, Ethernet servers..
+Technologies used in project: Raspberry Pi, Vi, Knowledge Box software, DOS Commands, Ethernet servers...
 
 Note on building project: 
-  The instructions were not that clear or up to date when it came to DOS commands which is why the project took longer than the estimted 12h. 
+  The instructions were not that clear or up to date when it came to DOS commands which is why the project took longer than the estimated 12h. 
   
 Team: David Vidic (Team Captain), Sam Somefun
