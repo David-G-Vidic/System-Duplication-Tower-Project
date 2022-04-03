@@ -4,7 +4,7 @@ Team Project Built for Computer Architecture class
 View PDF above for the instructions we were given for this project.
 
 
-The towers were be donated to [The Knowledge Box](theknowledgebox.info). The towers are being used as duplication stations for the
+The towers were be donated to [The Knowledge Box](https://theknowledgebox.info/). The towers are being used as duplication stations for the
 Knowledge Box content. Which provides "the best of the Internet in English and Spanish" in remote parts of the world without internet access. 
 
 ### Tower Build Video we made:
