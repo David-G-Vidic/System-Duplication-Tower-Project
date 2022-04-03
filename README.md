@@ -1,5 +1,5 @@
 # System-Duplication-Tower-Project
-Project Built for Computer Architecture class
+Team Project Built for Computer Architecture class
 
 View PDF for instructions we were given for this project.
 
@@ -13,5 +13,7 @@ Tower Build Video we made:
 
 Technologies used in project: Raspberry Pi, Vi, Knowledge Box software, DOS Commands, Ethernet servers..
 
-Note on building project: 
-  The instructions were not that clear or up to date when it came to DOS commands which is why the project took longer than the estimted 12h.
+Notes on building project: 
+  The instructions were not that clear or up to date when it came to DOS commands which is why the project took longer than the estimted 12h. 
+  
+Team: David Vidic (Team Captain), Sam Somefun
